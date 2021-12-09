@@ -1,0 +1,19 @@
+{
+    "name": "Shisui",
+    "symbol": "SRGN",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "E4cCNwCJNAzykwb5MWTtBQKwKUQ1gEru6mKdGL7YNxqu",
+          "share": 100
+        }
+      ]
+    }
+  }
